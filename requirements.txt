@@ -1,0 +1,10 @@
+matplotlib==3.8.2
+nltk==3.8.1
+numpy==1.26.2
+Pillow==10.1.0
+Pillow==10.1.0
+rouge==1.0.1
+torch==1.13.1+cu117
+torchsummary==1.5.1
+torchvision==0.14.1+cu117
+tqdm==4.66.1
